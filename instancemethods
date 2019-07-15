@@ -1,0 +1,8 @@
+Dot Notation 
+- send objects messages this way
+- variable.object_id
+
+all objects respond to methods and messages
+- .methods --> shows all the methods that an object will respond to
+
+methods in a class become specific behaviors of instances in that class only --> call the method on the instance with the dot notation
